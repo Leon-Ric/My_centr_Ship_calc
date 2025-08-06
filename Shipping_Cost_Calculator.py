@@ -1,5 +1,4 @@
 # Shipping Cost Calculator
-# Ecco un nuovo aggiornamento da Leon-Ric
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
